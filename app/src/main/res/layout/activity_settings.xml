@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#F5F7FA">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="⚙️ Settings"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="#2C3E50"
+        android:layout_marginBottom="32dp" />
+
+    <RadioGroup
+        android:id="@+id/radioGroupLanguage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="32dp">
+
+        <RadioButton
+            android:id="@+id/radioEnglish"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="English"
+            android:layout_marginBottom="16dp" />
+
+        <RadioButton
+            android:id="@+id/radioHindi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="हिंदी" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/buttonSaveLang"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="💾 Save Language"
+        android:textSize="18sp"
+        android:backgroundTint="#27AE60" />
+</LinearLayout>

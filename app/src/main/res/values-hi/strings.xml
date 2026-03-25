@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sanraksha</string>
+    <string name="sos_active">एसओएस सक्रिय! सुन रहा है...</string>
+    <string name="sos_off">एसओएस बंद</string>
+    <string name="sending_sos">एसओएस भेजा जा रहा है...</string>
+    <string name="fetching_location">स्थान प्राप्त किया जा रहा है...</string>
+    <string name="sos_sent">एसओएस भेजा गया!</string>
+    <string name="enable_sos_or_keywords">एसओएस सक्षम करें या मदद कहें</string>
+    <string name="cancel_sos">एसओएस रद्द करें (%1$d सेकंड)</string>
+    <string name="sos_cancelled">एसओएस रद्द किया गया</string>
+    <string name="sos_cancelled_toast">एसओएस रद्द हुआ</string>
+    <string name="voice_prompt">"मदद मदद" या "बचो बचो" कहें</string>
+    <string name="settings_placeholder">भाषा और सेटिंग्स</string>
+    <string name="permissions_granted">अनुमतियाँ स्वीकृत</string>
+    <string name="permissions_denied">अनुमतियाँ अस्वीकृत</string>
+    <string name="safety_mode_listening">सुरक्षा मोड सक्रिय है</string>
+    <string name="safety_mode_off">सुरक्षा मोड बंद</string>
+    <string name="sos_triggered">एसओएस चालू हुआ</string>
+    <string name="safety_subtitle">आपका व्यक्तिगत सुरक्षा साथी</string>
+    <string name="safety_mode">🛡️ सुरक्षा मोड (यात्रा शुरू करें)</string>
+    <string name="enable_sos">🔴 एसओएस मोड चालू करें</string>
+    <string name="send_sos_now">🚨 अभी एसओएस भेजें</string>
+    <string name="start_voice_listening">🎙️ वॉयस लिसनिंग चालू करें</string>
+    <string name="mute_siren">🔇 सायरन म्यूट करें</string>
+    <string name="ready">तैयार</string>
+    <string name="contacts">📞 संपर्क</string>
+    <string name="settings">⚙️ सेटिंग्स</string>
+    <string name="profile">👤 प्रोफ़ाइल</string>
+    <string name="sos_waiting">एसओएस %1$d सेकंड में भेजा जाएगा</string>
+</resources>
